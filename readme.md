@@ -7,3 +7,5 @@ Live Website: [Live Website](http://www.webizly.com/historyInternet-IS117sp21/)
 
 [F-Layout](https://webdesign.tutsplus.com/articles/understanding-the-f-layout-in-web-design--webdesign-687) - Text page
 [Z-Layout](https://webdesign.tutsplus.com/articles/understanding-the-z-layout-in-web-design--webdesign-28) - Homepage
+
+Rafael Von-Klaveren
